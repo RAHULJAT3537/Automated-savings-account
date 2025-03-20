@@ -25,6 +25,7 @@ The vision of this project is to provide a decentralized and transparent savings
 
 ## Contract Address:
 0x891cEBbcb9D8631853B4c1352c1801ab41a057a7
-![image](https://github.com/user-attachments/assets/3974c83d-fae6-491a-b54d-f1166c4fd6d9)
+![image](https://github.com/user-attachments/assets/b5b0d6ff-514e-4a78-bf8a-e7e4efde2652)
+
 
 
