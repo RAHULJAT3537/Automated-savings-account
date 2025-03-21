@@ -28,5 +28,6 @@ The vision of this project is to provide a decentralized and transparent savings
 
 ![image](https://github.com/user-attachments/assets/930c1416-267a-46e2-92bc-819670bb9b2c)
 
+![image](https://github.com/user-attachments/assets/d9dee807-9c75-43d8-a463-22c73235f524)
 
 
