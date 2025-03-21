@@ -24,8 +24,9 @@ The vision of this project is to provide a decentralized and transparent savings
 - **Decentralized and Transparent**: No need for intermediaries, ensuring trustless transactions.
 
 ## Contract Address:
-0x891cEBbcb9D8631853B4c1352c1801ab41a057a7
-![image](https://github.com/user-attachments/assets/b5b0d6ff-514e-4a78-bf8a-e7e4efde2652)
+0x2Ea9C1D663Ded8d56AD50651Ab87527e3873aB15
+
+![image](https://github.com/user-attachments/assets/930c1416-267a-46e2-92bc-819670bb9b2c)
 
 
 
