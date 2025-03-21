@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Savings Account</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Automated Savings Account</h1>
+        <div class="account-info">
+            <p><strong>Account Balance:</strong> <span id="balance">Loading...</span> ETH</p>
+        </div>
+        <div class="actions">
+            <input type="number" id="depositAmount" placeholder="Enter amount to deposit">
+            <button onclick="deposit()">Deposit</button>
+            <button onclick="withdraw()">Withdraw</button>
+        </div>
+        <p id="status"></p>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.8.0/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
