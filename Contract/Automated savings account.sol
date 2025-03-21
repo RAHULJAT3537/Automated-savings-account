@@ -55,4 +55,3 @@ contract AutomatedSavings {
         emit Withdrawn(msg.sender, withdrawAmount, isPenalty);
     }
 }
-
